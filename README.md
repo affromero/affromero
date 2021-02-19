@@ -1,4 +1,4 @@
-### Andrés Romero
+### Hi, I am Andrés Romero 🎃
 
 **I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, Switzerland.**
 
