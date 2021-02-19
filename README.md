@@ -1,8 +1,10 @@
 ### Andrés Romero
-**[[Homepage](https://afromero.co/)] [[Google Scholar](https://scholar.google.com.co/citations?user=k4m3LGIAAAAJ&hl)]**
 
 **I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, Switzerland.**
 
+🏡 [Homepage](https://afromero.co/) **|** 
+👔 [linkedin](https://www.linkedin.com/in/afromero/) **|** 
+📰 [google scholar](https://scholar.google.com.co/citations?user=k4m3LGIAAAAJ&hl)
 
 <!--
 **affromero/affromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +23,7 @@ Here are some ideas to get you started:
 
 ------------
 
-🌱 **News**🌱 
+⚡⚡⚡**News**
 - **[SMILE](https://github.com/affromero/SMILE) for multi-style facial attribute imposition is coming!**
 
 ------------
