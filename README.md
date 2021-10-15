@@ -3,8 +3,8 @@
 **I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, Switzerland.**
 
 🏡 [Homepage](https://afromero.co/) **|** 
-👔 [linkedin](https://www.linkedin.com/in/afromero/) **|** 
-📰 [google scholar](https://scholar.google.com.co/citations?user=k4m3LGIAAAAJ&hl)
+👔 [Linkedin](https://www.linkedin.com/in/afromero/) **|** 
+📰 [Google scholar](https://scholar.google.com.co/citations?user=k4m3LGIAAAAJ&hl)
 
 <!--
 **affromero/affromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
