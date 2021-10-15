@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ------------
 
 ⚡⚡⚡**News**
-- **[SMILE](https://github.com/affromero/SMILE) for multi-style facial attribute imposition is coming!**
+- [10-2021] **[SMILE](https://affromero.github.io/SMILE/) for multi-style facial attribute imposition is out! Try it out!**
 
 ------------
 <!--
