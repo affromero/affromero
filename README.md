@@ -1,6 +1,6 @@
 ### Hi, I am Andrés Romero 🎃
 
-**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, Switzerland.**
+**I am currently a postdoctoral researcher at the Computer Vision Lab, ETH Zurich, Switzerland.**
 
 🏡 [Homepage](https://afromero.co/) **|** 
 👔 [Linkedin](https://www.linkedin.com/in/afromero/) **|** 
