@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ------------
 
 ⚡⚡⚡**News**
+- [ **02-2022** ] **[NTIRE22 Image Inpainting Challenge](https://github.com/affromero/NTIRE22_Inpainting)** is open. The 7th edition of [NTIRE: New Trends in Image Restoration and Enhancement workshop will be held on June 2022 in conjunction with CVPR 2022](https://data.vision.ee.ethz.ch/cvl/ntire22/).
 - [ **10-2021** ] **[SMILE](https://affromero.github.io/SMILE/)** for multi-style facial attribute imposition is out! Try it out! ICCVW, 2021.
 
 ------------
