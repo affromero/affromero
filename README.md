@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 - **[EmoNet](https://github.com/affromero/EmoNet)**
 -->
 
-| <a href="https://github.com/affromero/NTIRE22_Inpainting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=affromero&repo=NTIRE22_Inpainting&cache_seconds=10&theme=default" alt=""  /></a>| <a href="https://github.com/affromero/SMILE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=affromero&repo=SMILE&cache_seconds=10&theme=default" alt=""  /></a>|
+| <a href="https://github.com/affromero/NTIRE22_Inpainting"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=affromero&repo=NTIRE22_Inpainting&cache_seconds=10&theme=default" alt=""  /></a>| <a href="https://github.com/affromero/SMILE"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=affromero&repo=SMILE&cache_seconds=10&theme=default" alt=""  /></a>|
 |:--:|:--:|
-| <a href="https://github.com/BCV-Uniandes/SMIT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BCV-Uniandes&repo=SMIT&cache_seconds=10&theme=default" alt="" /></a> | <a href="https://github.com/BCV-Uniandes/AUNets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BCV-Uniandes&repo=AUNets&cache_seconds=10&theme=default" alt="" /></a> |
-| <a href="https://github.com/affromero/EmoNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=affromero&repo=EmoNet&cache_seconds=10&theme=default" alt="" /></a> | <a href="https://github.com/affromero/Android_BlinkDetection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=affromero&repo=Android_BlinkDetection&cache_seconds=10&theme=default" alt="" /></a> 
+| <a href="https://github.com/BCV-Uniandes/SMIT"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=BCV-Uniandes&repo=SMIT&cache_seconds=10&theme=default" alt="" /></a> | <a href="https://github.com/BCV-Uniandes/AUNets"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=BCV-Uniandes&repo=AUNets&cache_seconds=10&theme=default" alt="" /></a> |
+| <a href="https://github.com/affromero/EmoNet"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=affromero&repo=EmoNet&cache_seconds=10&theme=default" alt="" /></a> | <a href="https://github.com/affromero/Android_BlinkDetection"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=affromero&repo=Android_BlinkDetection&cache_seconds=10&theme=default" alt="" /></a> 
 
 
-![](https://github-readme-stats.vercel.app/api?username=affromero&show_icons=true&hide=contribs,issues&cache_seconds=86400&theme=default)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=affromero&show_icons=true&hide=contribs,issues&cache_seconds=86400&theme=default)
 
 
 
