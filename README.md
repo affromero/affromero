@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ------------
 
 ⚡⚡⚡**News**
+- [ **07-2023** ] **I joinded an American Startup currently Stealth mode**, so unfortunately I cannot say much, just that it is around Generative AI and I am one of the founding members. I am fully remote now :rocket:.
 - [ **05-2022** ] **I joined [Gixel](https://www.gixel.de)** as Computer Vision Scientist/Engineer. We are building the next generation of eyeglasses for video-conferencing :sunglasses:! Awesome things to come!
 - [ **02-2022** ] [NTIRE22 Image Inpainting Challenge](https://github.com/affromero/NTIRE22_Inpainting) is open. The 7th edition of [NTIRE: New Trends in Image Restoration and Enhancement workshop will be held on June 2022 in conjunction with CVPR 2022](https://data.vision.ee.ethz.ch/cvl/ntire22/).
 
