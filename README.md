@@ -18,7 +18,7 @@ Before this: PhD on GANs, postdoc at ETH Zurich under Luc Van Gool and Radu Timo
 | **[Flight Finder](https://github.com/affromero/flight-finder)** | Natural-language flight search with tracked price-evolution charts. | [flight-finder.org](https://flight-finder.org) |
 | **[PriceToken](https://github.com/affromero/pricetoken)** | Real-time LLM pricing as a REST API, npm package, and Python SDK. | [pricetoken.ai](https://pricetoken.ai) |
 | **[gitpane](https://github.com/affromero/gitpane)** | Multi-repo Git workspace dashboard for the terminal, in Rust. | [crates.io](https://crates.io/crates/gitpane) |
-| **[sidedoor](https://github.com/affromero/sidedoor)** | Reach your self-hosted apps from your phone over LAN / Tailscale. Not a tunnel, not public by default. | |
+| **[sidedoor](https://github.com/affromero/sidedoor)** | Reach your self-hosted apps from your phone over LAN / Tailscale. Not a tunnel, not public by default. | [npm](https://www.npmjs.com/package/thesidedoor) |
 | **[klogr](https://github.com/affromero/klogr)** | Structured logger for Python data/ML projects, built on Rich. | [PyPI](https://pypi.org/project/klogr/) |
 | **[groundcheck](https://github.com/affromero/groundcheck)** | Domain-aware citation and grounding verification for AI agents. Zero-dependency TypeScript. | [npm](https://www.npmjs.com/package/groundcheck) |
 | **[PixelCache](https://github.com/affromero/PixelCache)** | Image transfer between NumPy, PyTorch, and Pillow with built-in caching. | [PyPI](https://pypi.org/project/pixelcache/) |
