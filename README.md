@@ -16,10 +16,11 @@ Before this: PhD on GANs, postdoc at ETH Zurich under Luc Van Gool and Radu Timo
 | **[Splattie](https://github.com/affromero/splattie)** | Interactive 3D Gaussian Splatting as a web component. Upload a photo, get a 3D head whose eyes follow the cursor. | [splattie.app](https://splattie.app) |
 | **[kin3o](https://github.com/affromero/kin3o)** | AI Lottie generator CLI — describe a motion, get Lottie / dotLottie state machines. | [npm](https://www.npmjs.com/package/@afromero/kin3o) |
 | **[Flight Finder](https://github.com/affromero/flight-finder)** | Natural-language flight search with tracked price-evolution charts. | [flight-finder.org](https://flight-finder.org) |
-| **[gitpane](https://github.com/affromero/gitpane)** | Multi-repo Git workspace dashboard for the terminal, in Rust. | crates.io |
-| **[sidedoor](https://github.com/affromero/sidedoor)** | Reach your self-hosted apps from your phone over LAN / Tailscale. Not a tunnel, not public by default. | |
-| **[klogr](https://github.com/affromero/klogr)** | Structured logger for Python data/ML projects, built on Rich. | |
-| **[groundcheck](https://github.com/affromero/groundcheck)** | Domain-aware citation and grounding verification for AI agents. Zero-dependency TypeScript. | |
+| **[PriceToken](https://github.com/affromero/pricetoken)** | Real-time LLM pricing as a REST API, npm package, and Python SDK. | [pricetoken.ai](https://pricetoken.ai) |
+| **[gitpane](https://github.com/affromero/gitpane)** | Multi-repo Git workspace dashboard for the terminal, in Rust. | [crates.io](https://crates.io/crates/gitpane) |
+| **[sidedoor](https://github.com/affromero/sidedoor)** | Reach your self-hosted apps from your phone over LAN / Tailscale. Not a tunnel, not public by default. | [npm](https://www.npmjs.com/package/sidedoor) |
+| **[klogr](https://github.com/affromero/klogr)** | Structured logger for Python data/ML projects, built on Rich. | [PyPI](https://pypi.org/project/klogr/) |
+| **[groundcheck](https://github.com/affromero/groundcheck)** | Domain-aware citation and grounding verification for AI agents. Zero-dependency TypeScript. | [npm](https://www.npmjs.com/package/groundcheck) |
 | **[PixelCache](https://github.com/affromero/PixelCache)** | Image transfer between NumPy, PyTorch, and Pillow with built-in caching. | [PyPI](https://pypi.org/project/pixelcache/) |
 
 ### Selected research
