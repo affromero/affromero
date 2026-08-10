@@ -12,6 +12,7 @@ Before this: PhD on GANs, postdoc at ETH Zurich under Luc Van Gool and Radu Timo
 
 | | | |
 |---|---|---|
+| **[papernook](https://github.com/affromero/papernook)** | Your papers, annotated and understood, on your own server. Capture from any browser, ink the PDF with Apple Pencil, ask your own AI grounded questions. | [Releases](https://github.com/affromero/papernook/releases/latest) |
 | **[octoview](https://github.com/affromero/octoview)** | Renders the files GitHub won't — Gaussian splats, meshes, point clouds, notebooks, EXR — inline on blob pages. Works on private repos, no upload. 24 formats. | [App Store](https://apps.apple.com/app/id6789632370) |
 | **[Splattie](https://github.com/affromero/splattie)** | Interactive 3D Gaussian Splatting as a web component. Upload a photo, get a 3D head whose eyes follow the cursor. | [splattie.app](https://splattie.app) |
 | **[kin3o](https://github.com/affromero/kin3o)** | AI Lottie generator CLI — describe a motion, get Lottie / dotLottie state machines. | [npm](https://www.npmjs.com/package/@afromero/kin3o) |
