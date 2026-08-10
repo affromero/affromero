@@ -13,9 +13,9 @@ Before this: PhD on GANs, postdoc at ETH Zurich under Luc Van Gool and Radu Timo
 | | | |
 |---|---|---|
 | **[papernook](https://github.com/affromero/papernook)** | Your papers, annotated and understood, on your own server. Capture from any browser, ink the PDF with Apple Pencil, ask your own AI grounded questions. | [Releases](https://github.com/affromero/papernook/releases/latest) |
-| **[octoview](https://github.com/affromero/octoview)** | Renders the files GitHub won't — Gaussian splats, meshes, point clouds, notebooks, EXR — inline on blob pages. Works on private repos, no upload. 24 formats. | [App Store](https://apps.apple.com/app/id6789632370) |
+| **[octoview](https://github.com/affromero/octoview)** | Renders the files GitHub won't, inline on blob pages: Gaussian splats, meshes, point clouds, notebooks, EXR. Works on private repos, no upload. 24 formats. | [App Store](https://apps.apple.com/app/id6789632370) |
 | **[Splattie](https://github.com/affromero/splattie)** | Interactive 3D Gaussian Splatting as a web component. Upload a photo, get a 3D head whose eyes follow the cursor. | [splattie.app](https://splattie.app) |
-| **[kin3o](https://github.com/affromero/kin3o)** | AI Lottie generator CLI — describe a motion, get Lottie / dotLottie state machines. | [npm](https://www.npmjs.com/package/@afromero/kin3o) |
+| **[kin3o](https://github.com/affromero/kin3o)** | AI Lottie generator CLI: describe a motion, get Lottie / dotLottie state machines. | [npm](https://www.npmjs.com/package/@afromero/kin3o) |
 | **[Flight Finder](https://github.com/affromero/flight-finder)** | Natural-language flight search with tracked price-evolution charts. | [flight-finder.org](https://flight-finder.org) |
 | **[PriceToken](https://github.com/affromero/pricetoken)** | Real-time LLM pricing as a REST API, npm package, and Python SDK. | [pricetoken.ai](https://pricetoken.ai) |
 | **[gitpane](https://github.com/affromero/gitpane)** | Multi-repo Git workspace dashboard for the terminal, in Rust. | [crates.io](https://crates.io/crates/gitpane) |
@@ -26,10 +26,10 @@ Before this: PhD on GANs, postdoc at ETH Zurich under Luc Van Gool and Radu Timo
 
 ### Selected research
 
-- **[RePaint](https://github.com/andreas128/RePaint)** — inpainting with an unconditional DDPM at inference time, no task-specific training. *CVPR 2022* · [paper](https://arxiv.org/abs/2201.09865)
-- **[GANmut](https://github.com/stefanodapolito/GANmut)** — continuous, interpretable emotion space for face synthesis. *CVPR 2021* · [paper](https://arxiv.org/abs/2103.01813)
-- **[DeepSEE](https://github.com/mcbuehler/DeepSEE)** — explorable extreme face super-resolution, 16×16 to 256×256. *ACCV 2020 (oral)* · [paper](https://arxiv.org/abs/2004.04433)
-- **[SMILE](https://github.com/affromero/SMILE)** — joint editing of image attributes and spatial layout. *ICCV 2021 (workshop)* · [paper](https://arxiv.org/abs/2010.02315)
-- **[SESAME](https://github.com/entavelis/OpenSESAME)** — semantic scene editing: add, manipulate, erase objects. *ECCV 2020* · [paper](https://arxiv.org/abs/2004.04977)
+- **[RePaint](https://github.com/andreas128/RePaint)**: inpainting with an unconditional DDPM at inference time, no task-specific training. *CVPR 2022* · [paper](https://arxiv.org/abs/2201.09865)
+- **[GANmut](https://github.com/stefanodapolito/GANmut)**: continuous, interpretable emotion space for face synthesis. *CVPR 2021* · [paper](https://arxiv.org/abs/2103.01813)
+- **[DeepSEE](https://github.com/mcbuehler/DeepSEE)**: explorable extreme face super-resolution, 16×16 to 256×256. *ACCV 2020 (oral)* · [paper](https://arxiv.org/abs/2004.04433)
+- **[SMILE](https://github.com/affromero/SMILE)**: joint editing of image attributes and spatial layout. *ICCV 2021 (workshop)* · [paper](https://arxiv.org/abs/2010.02315)
+- **[SESAME](https://github.com/entavelis/OpenSESAME)**: semantic scene editing that adds, manipulates, or erases objects. *ECCV 2020* · [paper](https://arxiv.org/abs/2004.04977)
 
 More at [afromero.co](https://afromero.co).
