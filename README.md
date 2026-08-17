@@ -12,6 +12,7 @@ Before this: PhD on GANs, postdoc at ETH Zurich under Luc Van Gool and Radu Timo
 
 | | | |
 |---|---|---|
+| **[Sotto](https://github.com/affromero/Sotto)** | Self-hosted, open source AI language learning. CEFR courses, adaptive listening, and speaking practice built from your notes, work, and interests, with your own agent and keys (BYOK). | [sotto.fm](https://sotto.fm) |
 | **[papernook](https://github.com/affromero/papernook)** | Your papers, annotated and understood, on your own server. Capture from any browser, ink the PDF with Apple Pencil, ask your own AI grounded questions. | [Releases](https://github.com/affromero/papernook/releases/latest) |
 | **[octoview](https://github.com/affromero/octoview)** | Renders the files GitHub won't, inline on blob pages: Gaussian splats, meshes, point clouds, notebooks, EXR. Works on private repos, no upload. 24 formats. | [App Store](https://apps.apple.com/app/id6789632370) |
 | **[Splattie](https://github.com/affromero/splattie)** | Interactive 3D Gaussian Splatting as a web component. Upload a photo, get a 3D head whose eyes follow the cursor. | [splattie.app](https://splattie.app) |
