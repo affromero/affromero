@@ -1,9 +1,5 @@
 ### Andrés Romero
 
-Head of AI at [Haxion](https://haxion.ai), working on spatial intelligence for embodied AI: systems that let machines see, listen, and keep a persistent 3D memory of physical space.
-
-Before this: PhD on GANs, postdoc at ETH Zurich under Luc Van Gool and Radu Timofte, publications at CVPR, ICCV, and ECCV. These days I mostly ship instead of publish.
-
 [afromero.co](https://afromero.co) · [Scholar](https://scholar.google.com.co/citations?user=k4m3LGIAAAAJ) · [LinkedIn](https://linkedin.com/in/afromero) · [X](https://twitter.com/afromero)
 
 ---
